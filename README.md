@@ -67,6 +67,7 @@
 <!-- ✅ FIXED Snake Animation Link -->
 ![Snake animation](https://raw.githubusercontent.com/Manjunath348/Manjunath348/output/github-contribution-grid-snake.svg)
 
+
 <!-- ✅ FIXED GitHub Stats -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manjunath348&show_icons=true&locale=en&layout=compact" alt="Manjunath348" /></p>
 
