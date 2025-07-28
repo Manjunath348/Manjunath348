@@ -10,13 +10,13 @@
 
 - 🔭 I’m currently working on **DataScience projects**
 
-- 🌱 I’m currently learning **ML, Tensorflow, Pytorch**
+- 🌱 I’m currently learning **AWS CLOUD**
 
-- 💬 Ask me about **python, data science and machine learning**
+- 💬 Ask me about **python, data science and machine learning, AWS+DEVOPS**
 
-- 📫 How to reach me **manjunathkamalapure@gmail.com**
+- 📫 How to reach me **manjunathkamalapure348@gmail.com**
 
-- ⚡ Fun fact **Afair with DataScience**
+- ⚡ Fun fact **Afair with DevOps**
 
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjunath-kamalapure-447a35268/)
