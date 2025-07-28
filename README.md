@@ -21,12 +21,6 @@
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjunath-kamalapure-447a35268/)
 
-<!--<h3 align="left">Connect with me:</h3>-->
-<!-- <p align="left"> -->
-<!-- <a href="www.linkedin.com/in/manjunath-kamalapure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manjunath-kamalapure" height="30" width="40" /></a> -->
-<!-- </p>-->
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -36,7 +30,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a>  
   <a href="https://docs.streamlit.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="flask" width="40" height="40"/> 
+    <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="40" height="40"/> 
   </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
@@ -70,14 +64,15 @@
   </a> 
 </p>
 
-![Snake animation](https://github.com/manjunathkamalapure/manjunathkamalapure/blob/output/github-contribution-grid-snake.svg)
+<!-- ✅ FIXED Snake Animation Link -->
+![Snake animation](https://raw.githubusercontent.com/Manjunath348/Manjunath348/output/github-contribution-grid-snake.svg)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manjunathkamalapure&show_icons=true&locale=en&layout=compact" alt="manjunathkamalapure" /></p>
+<!-- ✅ FIXED GitHub Stats -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manjunath348&show_icons=true&locale=en&layout=compact" alt="Manjunath348" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manjunathkamalapure&show_icons=true&locale=en" alt="manjunathkamalapure" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Manjunath348&show_icons=true&locale=en" alt="Manjunath348" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manjunathkamalapure&" alt="manjunathkamalapure" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manjunath348&" alt="Manjunath348" /></p>
 
-<!--horizontal divider(gradiant)-->
+<!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
