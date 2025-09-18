@@ -7,12 +7,8 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Aspiring+DevOps+Engineer,;Data+Science+Student,;Cloud+and+Automation+Enthusiast,;Lifelong+Learner">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Aspiring+DevOps+Engineer,;Data+Science+Student,;Cloud+and+Automation+Enthusiast,;Lifelong+Learner,;Machine+Learning+Engineer,;Data+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs">
   </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Aspiring+Machine+Learning+Engineer,;Data+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs"></a>
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
