@@ -11,6 +11,10 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Aspiring+Machine+Learning+Engineer,;Data+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs"></a>
+</p>
+
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left">
@@ -46,6 +50,37 @@
   <img src="https://img.shields.io/badge/-Ansible-%23EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Prometheus-%23E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Grafana-%23F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+</p>
+<p align="left">  
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a>
+  
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> 
+  </a> 
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+  </a>
+  
 </p>
 
 ---
