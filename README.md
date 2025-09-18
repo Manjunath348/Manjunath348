@@ -128,16 +128,8 @@
 <!-- GitHub Stats -->
 ### 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manjunath348&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Manjunath348&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manjunath348" alt="GitHub Streak" /></p>
 
 ---
-
-<!-- Snake Animation -->
-![Snake animation](https://raw.githubusercontent.com/Manjunath348/Manjunath348/output/github-contribution-grid-snake.svg)
-
 <!-- Divider -->
 <p><img src="https://i.imgur.com/A5bYxFh.gif" alt="cool divider" /></p>
