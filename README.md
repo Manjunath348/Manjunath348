@@ -131,5 +131,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manjunath348" alt="GitHub Streak" /></p>
 
 ---
-<!-- Divider -->
-<p><img src="https://i.imgur.com/A5bYxFh.gif" alt="cool divider" /></p>
